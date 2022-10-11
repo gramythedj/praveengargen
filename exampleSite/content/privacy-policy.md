@@ -8,7 +8,7 @@ url: /privacy-policy.html
 
 Privacy Policy
 Who we are
-Our website address is https://animecrush.me
+Our website address is https://iasreddy.in/
 
 What personal data we collect and why we collect it
 Comments
