@@ -16,7 +16,7 @@ thumbnailAlt: my thoughts
 **4 Principles came into existence or 4 Buddhist council happened**
 
   
-  ![Buddha](/_img/econo/buddha.jpeg)
+  ![Buddha](/images/econo/buddha.jpeg)
 
 **1st Buddhist council- 483BC**
 
