@@ -1,6 +1,6 @@
 baseurl: "https://animecrush.me"
 languageCode: "en-us"
-title: "PraveenKumar"
+title: "Praveen Kumar"
 theme: "hugo-tania"
 paginate: 9
 googleAnalytics: "UA-180166302-1"
@@ -20,9 +20,9 @@ params:
   # Default to true
   enableFootnotes: true
   
-  siteName: "Animecrush is Amazing"
-  siteDesc: "Animecrush- Hub of Anime Theories and discussions and anime Products and reviews!"
-  author: "Hugo Tania"
+  siteName: "Praveen Kumar's Digital Garden"
+  siteDesc: "Iasreddy, is a personal experiments Blog on Business, SEO, sometimes on Movie Reviews"
+  author: "Praveen Kumar"
 
   colorScheme:
     # Enable toggle colorScheme
@@ -68,7 +68,7 @@ menu:
   header:
     - name: Articles
       url: "/articles/"
-    - name: About-Us
+    - name: About
       url: "/about-us.html"  
   footer:
     - name: RSS
