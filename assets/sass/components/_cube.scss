@@ -1,16 +1,16 @@
 /* CSS for general styling */
 .cucu {
 	display: flex;
-	height: 30vh;
-  width: 30vh;
+	height: 50vh;
+  width: 50vh;
 	justify-content: center;
 	align-items: center;
 	background: rgb(73, 73, 73);
 }
 
 .cube {
-	width: 150px;
-	height: 150px;
+	width: 200px;
+	height: 200px;
 	position: relative;
 	transform-style: preserve-3d;
 	animation: rotate 10s linear infinite;
