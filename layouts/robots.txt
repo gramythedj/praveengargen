@@ -5,4 +5,4 @@ Disallow: /some-path/
 Disallow: {{ .RelPermalink }}
 {{ end }}
 
-Sitemap: {{ "sitemap.xml" | absLangURL }}
+Sitemap: {{ "https://iasreddy.in/sitemap.xml" | absLangURL }}
