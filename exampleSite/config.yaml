@@ -1,9 +1,9 @@
-baseurl: "https://animecrush.me"
+baseurl: "https://iasreddy.in"
 languageCode: "en-us"
 title: "Praveen Kumar"
 theme: "hugo-tania"
 paginate: 9
-googleAnalytics: "UA-180166302-1"
+googleAnalytics: "G-LB49P4CLJV"
 
 enableRobotsTXT: true
 
