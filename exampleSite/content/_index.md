@@ -1,1 +1,1 @@
-<h3>This is the digital Garden of Praveen Kumar</h3>
+This is the digital Garden of Praveen Kumar
