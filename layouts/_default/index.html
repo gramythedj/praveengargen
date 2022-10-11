@@ -25,6 +25,7 @@
         </div>
     </section>
 </div>
+{{ partial "cube-demo.html" . }}
 
 {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 {{ $projects := where .Site.RegularPages "Section" "projects" }}
