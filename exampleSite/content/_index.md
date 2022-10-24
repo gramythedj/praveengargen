@@ -1,1 +1,1 @@
-This is the digital Garden of Praveen Kumar
+This is the Digital Garden of Praveen Kumar
