@@ -4,6 +4,7 @@ title: "How to start a blog in 2023?"
 metaTitle: How to start a blog in 2023?
 metaDesc:  You should be able to create an incredible blog if you follow this instruction to the end.
 date: 2022-10-20T09:40:42.704Z
+toc: true
 tags:
   - blog
   - productivity
