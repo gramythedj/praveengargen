@@ -26,7 +26,12 @@
     </article>
 
     <div class="article-post">
-    {{ .Content }}
+        {{ if .Params.toc }}
+        <aside>
+            {{ .TableOfContents }}
+        </aside>
+        {{ end }}
+        {{ .Content }}
     </div>
 </div>
 
