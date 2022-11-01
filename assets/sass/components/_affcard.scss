@@ -1,0 +1,164 @@
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) {
+    --tk-title: #364962;
+    --tk-subtitle: #6366f1;
+    --tk-content: #2e353f;
+    --tk-cta: #ff9816 linear-gradient(to right bottom, rgb(250, 204, 21), rgb(249, 115, 22));
+    --tk-ribbon: linear-gradient(to right bottom, #38bdf8, #6366f1);
+    -webkit-font-smoothing: antialiased;
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 500;
+    color: #303538;
+    max-width: 600px;
+    margin: 2rem auto;
+    border-radius: 10px;
+    padding: 2rem;
+    position: relative;
+    overflow: hidden;
+    color: var(--tk-primary);
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) a {
+    text-decoration: none;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) img {
+    display: block;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card {
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .tk-card-image {
+    flex: 1 1 auto;
+    text-align: center;
+    max-width: 100%;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .tk-card-image img {
+    border-radius: 7px;
+    max-width: 100%;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .tk-card-body {
+    flex: 1 1 auto;
+    margin-top: 2rem;
+    color: var(--tk-content);
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .tk-card-body .card-subtitle {
+    color: var(--tk-subtitle);
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .tk-card-body .product-body {
+    margin-bottom: 1rem;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .tk-card-body .product-body ul {
+    list-style: none;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .tk-card-body .product-body ul li {
+    line-height: 1.6;
+    position: relative;
+    padding: 0;
+    padding-left: 1.2rem;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .tk-card-body .product-body ul li:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 8px;
+    height: 8px;
+    width: 8px;
+    background: url("data:image/svg+xml,%3Csvg width='6' height='8' viewBox='0 0 6 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M-4.18714e-08 7.1999C-2.03625e-05 7.34473 0.0368198 7.48685 0.106591 7.6111C0.176362 7.73535 0.276446 7.83706 0.396165 7.90538C0.515884 7.97371 0.650747 8.00608 0.786365 7.99906C0.921983 7.99203 1.05327 7.94586 1.16622 7.86548L5.66609 4.66558C5.76881 4.59252 5.85302 4.49355 5.91127 4.37744C5.96952 4.26134 6 4.13169 6 4C6 3.86831 5.96952 3.73866 5.91127 3.62256C5.85302 3.50645 5.76881 3.40748 5.66609 3.33442L1.16622 0.134516C1.05327 0.0541353 0.921983 0.00796892 0.786365 0.000942251C0.650747 -0.00608442 0.515884 0.026292 0.396165 0.0946177C0.276446 0.162943 0.176362 0.264655 0.106591 0.388901C0.0368198 0.513147 -2.03625e-05 0.655266 -4.18714e-08 0.800096C-4.18714e-08 4.72468 -4.18714e-08 -2.46566 -4.18714e-08 7.1999Z' fill='%23f97316'/%3E%3C/svg%3E%0A")
+        no-repeat;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .tk-card-body h2 {
+    font-size: var(--fontSize-3);
+    color: var(--tk-title);
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .buy-btn {
+    display: block;
+    text-decoration: none;
+    background: var(--tk-cta);
+    color: #fff;
+    border: 0;
+    font-size: 18px;
+    border-radius: 10px;
+    transition: 0.6s;
+    overflow: hidden;
+    position: relative;
+    padding: 0.5rem;
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .buy-btn:focus {
+    outline: 0;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .buy-btn:before {
+    content: "";
+    display: block;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.5);
+    width: 60px;
+    height: 100%;
+    left: 0;
+    top: 0;
+    opacity: 0.5;
+    filter: blur(30px);
+    transform: translateX(-100px) skewX(-15deg);
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .buy-btn:after {
+    content: "";
+    display: block;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.2);
+    width: 30px;
+    height: 100%;
+    left: 30px;
+    top: 0;
+    opacity: 0;
+    filter: blur(5px);
+    transform: translateX(-100px) skewX(-15deg);
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .buy-btn:hover {
+    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .buy-btn:hover:before {
+    transform: translateX(300px) skewX(-15deg);
+    opacity: 0.6;
+    transition: 0.7s ease-in;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .buy-btn:hover:after {
+    transform: translateX(300px) skewX(-15deg);
+    opacity: 1;
+    transition: 0.7s ease-in;
+}
+div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-ribbon {
+    position: absolute;
+    background: var(--tk-ribbon);
+    color: #fff;
+    padding: 0.25rem 0.75rem;
+    top: 0;
+    left: 0;
+    border-bottom-right-radius: 10px;
+}
+@media (min-width: 640px) {
+    div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) {
+        padding: 1rem;
+    }
+    div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card {
+        display: flex;
+    }
+    div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .tk-card-image {
+        max-width: 50%;
+    }
+    div#tableskit.tk-simple.tableskit.tk-showcase-simple-01:not(_) .tk-simple-card .tk-card-body {
+        margin-top: 0;
+    }
+}

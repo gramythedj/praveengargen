@@ -10,6 +10,13 @@ tags:
   - productivity
 ---
 
+<div id="tableskit" class="tableskit tk-simple tk-showcase-simple-01"><div class="tk-ribbon">Hot Deals</div><div class="tk-simple-card"><div class="tk-card-image"><a href="Product URL"><img src="https://next.tableskit.com/static/media/shoe.c7c84109.jpeg" alt="Some awesome product by tableskit"/></a></div><div class="tk-card-body"><h2 class="card-title">Some awesome product by tableskit</h2><div class="card-subtitle">Top picks for your home</div><div class="product-body"><ul><li>Ingredient Type: Vegetarian</li><li>Goodness of Black Raisins</li><li>Best Crunch and Taste</li><li>Healthy Cookies</li></ul></div><a href="Product URL" class="buy-btn" rel="noreferrer">Check Price on Amazon</a></div></div></div>
+
+
+
+
+
+
 ### How to start a blog in 2023?
 
 You should be able to create an incredible blog if you follow this instruction to the end. These guidelines were created particularly for new bloggers. 
