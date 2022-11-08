@@ -11,7 +11,7 @@ disqusShortname: https-hugo-tania-netlify-app
 
 params:
   # Emoji will show before the blog title on site navbar.
-  titleEmoji: 👾
+  titleEmoji: 👻
 
   # Logo will show before the blog title on site navbar.
   titleLogo: 
@@ -21,7 +21,7 @@ params:
   enableFootnotes: true
   
   siteName: "Praveen Kumar's Digital Garden"
-  siteDesc: "Iasreddy, is a personal experiments Blog on Business, SEO, sometimes on Movie Reviews"
+  siteDesc: "Iasreddy, is a personal experiments Blog on Business, SEO, Reviews on Productivity Softwares"
   author: "Praveen Kumar"
 
   colorScheme:
