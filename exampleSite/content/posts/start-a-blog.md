@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+url: /start-a-blog
 title: "How to start a blog in 2023?"
 metaTitle: How to start a blog in 2023?
 metaDesc:  You should be able to create an incredible blog if you follow this instruction to the end.
