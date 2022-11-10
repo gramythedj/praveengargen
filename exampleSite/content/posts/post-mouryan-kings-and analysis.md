@@ -5,8 +5,7 @@ date: 2022-04-29 11:10:37
 tags:
   - upsc
 description: ' analysis of Post moryan kings like Kushans and Saka and a brief intro on the Sangam Age.'
-thumbnail: default/gpk.jpg
-thumbnailAlt: my thoughts
+url: /blog/post-mouryan-kings-and-analysis/
 ---
 
 ## Post Mauryans and Kingdoms (200 BC-300 AD)

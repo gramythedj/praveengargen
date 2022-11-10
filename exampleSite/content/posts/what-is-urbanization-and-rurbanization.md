@@ -5,8 +5,7 @@ date: 2022-04-22 15:33:37
 tags:
   - upsc
 description: 'we study some basic definition of  rurbanization and Urbanization.'
-thumbnail: default/gpk.jpg
-thumbnailAlt: my thoughts
+url: /blog/what-is-urbanization-and-rurbanization/
 ---
 
 what is Urbanization?

@@ -4,6 +4,7 @@ author: 'Siachen team'
 date: 2022-04-30 12:33:37
 thumbnail: default/gpk.jpg
 thumbnailAlt: my thoughts
+url: /blog/age-of-gupta-empire/
 tags:
   - upsc
 description: '  India witnessed remarkable development in all spheres of Life in the period of Gupta empire.'

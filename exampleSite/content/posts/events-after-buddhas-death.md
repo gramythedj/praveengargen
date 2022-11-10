@@ -7,6 +7,7 @@ tags:
 description: 'discussing some Major Buddhist council and splits in Buddhism and the downfall of Buddhism.'
 thumbnail: default/gpk.jpg
 thumbnailAlt: my thoughts
+url: /blog/events-after-buddhas-death/
 ---
 
 ## Events After the Death of Gautama Buddha!

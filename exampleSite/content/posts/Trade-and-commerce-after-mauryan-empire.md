@@ -5,8 +5,7 @@ date: 2022-04-30 10:33:37
 tags:
   - upsc
 description: ' Major reason was the diversion of silk route as it passed from India.'
-thumbnail: default/gpk.jpg
-thumbnailAlt: my thoughts
+url: /blog/Trade-and-commerce-after-mauryan-empire/
 ---
 
 ## Why did such huge trade appear between India and Rome?
