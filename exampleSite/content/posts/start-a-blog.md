@@ -1,5 +1,5 @@
 ---
-url: /start-a-blog
+url: /start-a-blog-in-2013/
 title: "How to start a blog in 2023?"
 metaTitle: How to start a blog in 2023?
 metaDesc:  You should be able to create an incredible blog if you follow this instruction to the end.
@@ -9,11 +9,6 @@ tags:
   - blog
   - productivity
 ---
-
-
-
-
-
 
 
 ### How to start a blog in 2023?
